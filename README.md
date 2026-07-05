@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedPolash
-- 👀 I’m interested in ... Blockchain Development
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Someone who learning blockchain developing.
+- 👀 I’m interested in ... Digital Currency And All About DATA
+- 🌱 I’m currently learning ... Python, Connect with Data
+- 💞️ I’m looking to collaborate on ... Someone who is learning blockchain development, a data analyst.
 - 📫 How to reach me ...
 - Ⓜ️ Mohammedpolash786@gmail.com
 - 🔵 https://www.facebook.com/MohammadhossainPalash/
